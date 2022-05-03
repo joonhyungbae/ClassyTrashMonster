@@ -4,6 +4,8 @@ https://dl.acm.org/doi/10.1145/3491101.3516487
 ## Pre-recorded Video
 https://www.youtube.com/watch?v=CEftATB-pK4
 ## Phone Wallpaper
+Artwork by Joonhyung Bae
+
 Shield: [![CC BY-NC-ND 4.0][cc-by-nc-nd-shield]][cc-by-nc-nd]
 
 This work is licensed under a
