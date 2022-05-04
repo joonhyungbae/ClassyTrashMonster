@@ -7,6 +7,8 @@ https://dl.acm.org/doi/10.1145/3491101.3516487
 ## Pre-recorded Video
 https://www.youtube.com/watch?v=CEftATB-pK4
 ## Phone Wallpaper
+<img src="phoneWallpaper/ctm_blackAndWhite.jpg" width=20% height=20%> <img src="phoneWallpaper/ctm_monochrome.jpg" width=20% height=20%> <img src="phoneWallpaper/ctm_color.jpg" width=20% height=20%>
+
 Artwork by Joonhyung Bae
 
 Shield: [![CC BY-NC-ND 4.0][cc-by-nc-nd-shield]][cc-by-nc-nd]
