@@ -1,4 +1,7 @@
 # Classy Trash Monster: An Educational Game for Teaching Machine Learning to Non-major Students
+
+![ctm_gif](https://user-images.githubusercontent.com/46121282/166614861-e3ac4e30-6e95-471e-8b98-77e142b789ed.gif)
+
 ## ACM Digital Library
 https://dl.acm.org/doi/10.1145/3491101.3516487
 ## Pre-recorded Video
