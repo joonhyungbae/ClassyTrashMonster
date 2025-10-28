@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  
+  <!-- Main Page -->
+  <url>
+    <loc>https://joonhyungbae.github.io/ClassyTrashMonster/</loc>
+    <lastmod>2024-10-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    
+    <!-- Images -->
+    <image:image>
+      <image:loc>https://joonhyungbae.github.io/ClassyTrashMonster/wallpapers/ctm-wallpapers.png</image:loc>
+      <image:title>Classy Trash Monster Wallpapers</image:title>
+      <image:caption>Phone wallpapers featuring the Classy Trash Monster character</image:caption>
+    </image:image>
+    
+    <!-- Video -->
+    <video:video>
+      <video:thumbnail_loc>https://img.youtube.com/vi/CEftATB-pK4/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Classy Trash Monster Gameplay Video</video:title>
+      <video:description>Watch gameplay footage of Classy Trash Monster, an educational game for teaching machine learning concepts to non-major students</video:description>
+      <video:content_loc>https://www.youtube.com/watch?v=CEftATB-pK4</video:content_loc>
+      <video:player_loc>https://www.youtube.com/embed/CEftATB-pK4</video:player_loc>
+      <video:publication_date>2022-04-29</video:publication_date>
+    </video:video>
+  </url>
+  
+  <!-- Sections -->
+  <url>
+    <loc>https://joonhyungbae.github.io/ClassyTrashMonster/#overview</loc>
+    <lastmod>2024-10-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  
+  <url>
+    <loc>https://joonhyungbae.github.io/ClassyTrashMonster/#video</loc>
+    <lastmod>2024-10-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://joonhyungbae.github.io/ClassyTrashMonster/#features</loc>
+    <lastmod>2024-10-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://joonhyungbae.github.io/ClassyTrashMonster/#download</loc>
+    <lastmod>2024-10-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  
+  <url>
+    <loc>https://joonhyungbae.github.io/ClassyTrashMonster/#exhibition</loc>
+    <lastmod>2024-10-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>https://joonhyungbae.github.io/ClassyTrashMonster/#wallpapers</loc>
+    <lastmod>2024-10-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>https://joonhyungbae.github.io/ClassyTrashMonster/#citation</loc>
+    <lastmod>2024-10-28</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+</urlset>
+
