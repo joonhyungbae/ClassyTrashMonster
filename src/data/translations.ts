@@ -1,3 +1,7 @@
+import unfoldX2022_1 from "@/assets/exhibitions/unfold-x-2022-1.webp";
+import unfoldX2022_2 from "@/assets/exhibitions/unfold-x-2022-2.webp";
+import unfoldX2022_3 from "@/assets/exhibitions/unfold-x-2022-3.webp";
+
 export const translations = {
   en: {
     title: "Classy Trash Monster",
@@ -149,9 +153,9 @@ export const translations = {
           location: "SFactory, Seoul, Republic of Korea",
           date: "Nov. 7-19, 2022",
           images: [
-            "/exhibitions/unfold-x-2022-1.webp",
-            "/exhibitions/unfold-x-2022-2.webp",
-            "/exhibitions/unfold-x-2022-3.webp",
+            unfoldX2022_1,
+            unfoldX2022_2,
+            unfoldX2022_3,
           ],
         },
       ],
@@ -313,9 +317,9 @@ export const translations = {
           location: "에스팩토리, 서울, 대한민국",
           date: "2022년 11월 7일-19일",
           images: [
-            "/exhibitions/unfold-x-2022-1.webp",
-            "/exhibitions/unfold-x-2022-2.webp",
-            "/exhibitions/unfold-x-2022-3.webp",
+            unfoldX2022_1,
+            unfoldX2022_2,
+            unfoldX2022_3,
           ],
         },
       ],
