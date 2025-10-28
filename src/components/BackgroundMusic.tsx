@@ -1,4 +1,5 @@
 import { useState, useEffect, useRef } from "react";
+import ctmMusic from "@/assets/audio/ctm.mp3";
 
 interface BackgroundMusicProps {
   isPlaying: boolean;
@@ -13,7 +14,7 @@ export const BackgroundMusic = ({ isPlaying, onToggle }: BackgroundMusicProps) =
     setIsMounted(true);
     
     // Create audio element
-    const audio = new Audio("/ctm.mp3");
+    const audio = new Audio(ctmMusic);
     audio.loop = true;
     audio.volume = 0.3; // Set to 30% volume
     audioRef.current = audio;

@@ -1,6 +1,7 @@
 import { Button } from "@/components/ui/button";
 import { translations, Language } from "@/data/translations";
 import { Download } from "lucide-react";
+import ctmWallpapers from "@/assets/wallpapers/ctm-wallpapers.png";
 
 interface WallpapersSectionProps {
   language: Language;
@@ -23,7 +24,7 @@ export const WallpapersSection = ({ language }: WallpapersSectionProps) => {
           <div className="mx-auto max-w-3xl">
             <div className="overflow-hidden rounded-lg">
               <img
-                src="/wallpapers/ctm-wallpapers.png"
+                src={ctmWallpapers}
                 alt="CTM Phone Wallpapers - Black & White, Monochrome, and Color versions"
                 className="w-full h-auto transition-transform duration-300 hover:scale-105"
               />
