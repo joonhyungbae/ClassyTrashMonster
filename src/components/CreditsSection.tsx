@@ -9,7 +9,7 @@ import {
 } from "@/components/ui/table";
 import { Badge } from "@/components/ui/badge";
 import { translations, Language } from "@/data/translations";
-import { Mail, Globe, Instagram } from "lucide-react";
+import { Mail, Globe, Instagram, Linkedin } from "lucide-react";
 
 interface CreditsSectionProps {
   language: Language;
@@ -25,6 +25,7 @@ interface Credit {
   orcid?: string;
   website?: string;
   instagram?: string;
+  linkedin?: string;
   isAuthor?: boolean;
   coFirstAuthor?: boolean;
   corresponding?: boolean;
@@ -52,6 +53,7 @@ const credits: Credit[] = [
     role: "karam",
     email: "karam.eum@kaist.ac.kr",
     orcid: "0000-0002-4450-9138",
+    linkedin: "karam-eum",
     isAuthor: true,
     coFirstAuthor: true,
   },
@@ -205,6 +207,17 @@ export const CreditsSection = ({ language }: CreditsSectionProps) => {
                               title="Website"
                             >
                               <Globe className="h-5 w-5" />
+                            </a>
+                          )}
+                          {credit.linkedin && (
+                            <a
+                              href={`https://www.linkedin.com/in/${credit.linkedin}`}
+                              target="_blank"
+                              rel="noopener noreferrer"
+                              className="text-primary transition-colors hover:text-primary/80"
+                              title="LinkedIn"
+                            >
+                              <Linkedin className="h-5 w-5" />
                             </a>
                           )}
                           {credit.instagram && (
