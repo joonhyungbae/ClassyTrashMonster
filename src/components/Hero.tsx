@@ -61,7 +61,7 @@ export const Hero = ({ language }: HeroProps) => {
                 </span>
               </div>
               
-              <h1 className="mb-6 text-4xl font-extrabold bg-gradient-to-r from-primary via-secondary to-accent bg-clip-text text-transparent md:text-5xl lg:text-6xl leading-tight animate-fade-in" style={{ animationDelay: '0.4s' }}>
+              <h1 className="mb-6 pb-2 text-4xl font-extrabold bg-gradient-to-r from-primary via-secondary to-accent bg-clip-text text-transparent md:text-5xl lg:text-6xl leading-relaxed animate-fade-in" style={{ animationDelay: '0.4s' }}>
                 {t.title}
               </h1>
               <p className="mb-4 text-lg font-medium text-foreground/90 md:text-xl lg:text-2xl leading-relaxed animate-fade-in" style={{ animationDelay: '0.5s' }}>
